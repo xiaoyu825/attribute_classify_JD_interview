@@ -9,9 +9,9 @@
 
     ```
 
-    c. PA100K [Links](https://drive.google.com/drive/folders/0B5_Ra3JsEOyOUlhKM0VPZ1ZWR2M)
+    PA100K [Links](https://drive.google.com/drive/folders/0B5_Ra3JsEOyOUlhKM0VPZ1ZWR2M)
     ```
-    ./dataset/pa100k/release_data/release_data/*.jpg
+    ./dataset/pa100k/release_data/release_data/*.jpg      
     ./dataset/pa100k/annotation.mat
     ``` 
     ```
