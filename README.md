@@ -24,6 +24,8 @@
 
 ## Demo 
 <font face="Times New Roman" size=4>
+    for saving time ,you can use my trained parameter.
+  
 
    ```
    python demo.py
