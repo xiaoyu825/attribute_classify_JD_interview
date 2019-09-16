@@ -25,7 +25,7 @@
 ## Demo 
 <font face="Times New Roman" size=4>
     for saving time ,you can use my trained parameter.
-  
+  链接: https://pan.baidu.com/s/1_kP9iN2GzRRU6UOCf-y0zw 提取码: 9kgz 
 
    ```
    python demo.py
