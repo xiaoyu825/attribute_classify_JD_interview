@@ -1,4 +1,4 @@
-# pedestrian attribute recognition use pa100k for JD interview
+# Pedestrian ttribute recognition useing pa100k for JD's interview
 
 ## Preparation
 **Prerequisite: Python 3.6.8 and Pytorch 1.1.0**
